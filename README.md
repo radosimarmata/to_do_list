@@ -1,1 +1,2 @@
-"# to_do_list" 
+## To-Do List
+To-Do List Application adalah aplikasi konsol sederhana yang memungkinkan pengguna untuk mengelola daftar tugas mereka. Aplikasi ini mendukung fitur untuk menambahkan, melihat, dan menghapus tugas dari daftar.
